@@ -1,0 +1,1 @@
+[1,["20EhWmhF1HsI824NRSlQz2"],["_textureSetter"],["cc.SpriteFrame",["cc.AnimationClip",["_name","_duration","wrapMode","curveData"],-1]],[[1,0,1,2,3,5]],[[[[0,"rotate",6,2,{"props":{"angle":[{"frame":0,"value":0},{"frame":6,"value":360}]}}]],0,0,[],[],[]],[[{"name":"bg_light","rect":[0,0,500,500],"offset":[0,0],"originalSize":[500,500],"capInsets":[0,0,0,0]}],[0],0,[0],[0],[0]]]]
